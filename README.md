@@ -1,6 +1,7 @@
-**headings**
-#Heading 1
-A showcase of web development and multimedia projects, demonstrating practical experience in HTML, CSS, JavaScript, Python, PHP, FrontPage, and Adobe After Effects. Includes web applications, interactive websites, and video editing projects. All projects reflect problem-solving skills, creativity, and hands-on experience.
+# A showcase of web development and multimedia projects
+
+Demonstrating practical experience in HTML, CSS, JavaScript, Python, PHP, FrontPage, and Adobe After Effects. Includes web applications, interactive websites, and video editing projects. All projects reflect problem-solving skills, creativity, and hands-on experience.
+
 
 Projects:
 
