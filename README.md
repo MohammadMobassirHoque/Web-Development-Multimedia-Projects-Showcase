@@ -4,6 +4,8 @@ Projects:
 
 Basic Scientific Calculator – https://basiscientificcalculator.netlify.app/
 
+https://github.com/MohammadMobassirHoque/Web-Development-Multimedia-Projects-Showcase/blob/417ab032b10f901c998404c0db8c51089cf84972/calculator.PNG
+
 Password Strength Checker – https://passwordstrengthchecker7878.netlify.app/
 
 Password Generator – https://passwordgenerator123321.netlify.app/
