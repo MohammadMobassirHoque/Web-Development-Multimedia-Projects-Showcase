@@ -1,9 +1,9 @@
-# A showcase of web development and multimedia projects
+# A showcase of web development and multimedia projects 📌
 
-Demonstrating practical experience in HTML, CSS, JavaScript, Python, PHP, FrontPage, and Adobe After Effects. Includes web applications, interactive websites, and video editing projects. All projects reflect problem-solving skills, creativity, and hands-on experience.
+### Demonstrating practical experience in HTML, CSS, JavaScript, Python, PHP, FrontPage, and Adobe After Effects. Includes web applications, interactive websites, and video editing projects. All projects reflect problem-solving skills, creativity, and hands-on experience.
 
 
-Projects:
+#### Projects 📂 :
 
 Basic Scientific Calculator – https://basiscientificcalculator.netlify.app/
 
