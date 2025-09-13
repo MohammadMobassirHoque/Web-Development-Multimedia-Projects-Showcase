@@ -14,6 +14,4 @@ Login and Registration Form – https://loginandregistrationform09.netlify.app/
 
 Login and Signup Form 2 – https://logiandsignupform2.netlify.app/
 
-GitHub: https://github.com/MohammadMobassirHoque
-
 ‼ NEW PROJECTS SOON ‼
