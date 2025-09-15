@@ -37,6 +37,12 @@
 ![imagealt](https://github.com/MohammadMobassirHoque/Web-Development-Multimedia-Projects-Showcase/blob/f33301721176188f36fa620dc3dc73e8a7694558/log.PNG)
 
 
+
+##### 🕰️ Digital Clock - https://realdigitalclock.netlify.app/
+
+![imagealt](https://github.com/MohammadMobassirHoque/Web-Development-Multimedia-Projects-Showcase/blob/9626cc0be75efeed7b74356ac8361738e7d56404/clocka.PNG)
+
+
 ##### 🪪👤 Login and Signup Form 2 – https://logiandsignupform2.netlify.app/
 
 
