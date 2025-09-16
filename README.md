@@ -38,6 +38,15 @@
 
 
 
+
+
+##### 🌍 Language Translator - https://basiclanguagetranslator.netlify.app/
+
+![imagealt](file:///C:/Users/Bcs/Pictures/translator.PNG)
+
+
+
+
 ##### 🕰️ Digital Clock - https://realdigitalclock.netlify.app/
 
 ![imagealt](https://github.com/MohammadMobassirHoque/Web-Development-Multimedia-Projects-Showcase/blob/9626cc0be75efeed7b74356ac8361738e7d56404/clocka.PNG)
