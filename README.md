@@ -42,7 +42,7 @@
 
 ##### 🌍 Language Translator - https://basiclanguagetranslator.netlify.app/
 
-![imagealt]([file:///C:/Users/Bcs/Pictures/translator.PNG](https://image2url.com/images/1758001414078-05ce31dc-44df-4813-9483-cdff85e8d457.png))
+![imagealt](https://image2url.com/images/1758001414078-05ce31dc-44df-4813-9483-cdff85e8d457.png)
 
 
 
